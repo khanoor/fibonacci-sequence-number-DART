@@ -15,6 +15,7 @@ class _HomeState extends State<Home> {
   TextEditingController input = TextEditingController();
   List output = [];
   void main() {
+    output.clear();
     List<int> num = [0];
 
     for (int i = 0; i <= int.parse(input.text); i++) {
