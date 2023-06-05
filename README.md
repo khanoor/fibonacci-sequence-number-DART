@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Screenshot_1685950486](https://github.com/khanoor/fibonacci-sequence-number-DART/assets/22651410/5a369ed6-c79c-477f-a8d4-7db76acf5209)
 
 This project is a starting point for a Flutter application.
 
